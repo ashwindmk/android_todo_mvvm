@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Todo MVVM</string>
+
+    <!-- Software -->
+    <string-array name="os">
+        <item>Linux</item>
+        <item>Windows</item>
+        <item>Mac</item>
+    </string-array>
+
+    <string-array name="av">
+        <item>Avast</item>
+        <item>McAfee</item>
+    </string-array>
+
+    <!-- hardware -->
+    <string-array name="proc">
+        <item>Dual core</item>
+        <item>Quad core</item>
+        <item>i3</item>
+        <item>i5</item>
+        <item>i7</item>
+    </string-array>
+
+    <string-array name="ram">
+        <item>2 GB</item>
+        <item>4 GB</item>
+        <item>8 GB</item>
+        <item>16 GB</item>
+    </string-array>
+
+    <string-array name="hdd">
+        <item>250 GB</item>
+        <item>500 GB</item>
+        <item>1 TB</item>
+        <item>2 TB</item>
+    </string-array>
+</resources>

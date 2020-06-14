@@ -1,0 +1,2 @@
+rootProject.name='Todo MVVM'
+include ':app'
